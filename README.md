@@ -1,16 +1,16 @@
-<h1 align="centre">VCsMusicBot v5.0</h1>
+<h1 align="centre">KillerMusicBot v5.0</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot">
+  <a href="https://github.com/LushaiMusic/killerMusicBot">
      <img height="30px" src="https://img.shields.io/badge/Group%20Music%20Bot-red?style=for-the-badge&logo=github">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://telegra.ph/file/e8cc2e942567da80cab45.jpg">
-     <img height="200px" src="https://telegra.ph/file/e8cc2e942567da80cab45.jpg">
+  <a href="https://graph.org/file/9d9d77d407eaad08d7ed0.jpg">
+     <img height="200px" src="https://graph.org/file/bf191b068f587d5ef6c34.jpg">
   </a>
 </p>
 
@@ -19,12 +19,12 @@
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/LushaiMusic/VCsMusicBot/fork">
-    <img src="https://img.shields.io/github/forks/LushaiMusic/VCsMusicBot?label=Fork&style=social">
+  <a href="https://github.com/LushaiMusic/killerMusicBot/fork">
+    <img src="https://img.shields.io/github/forks/killerop12/KillerMusicBot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/LushaiMusic/GroupMusicBot">
-    <img src="https://img.shields.io/github/stars/LushaiMusic/VCsMusicBot?style=social">
+  <a href="https://github.com/killerop12/GroupMusicBot">
+    <img src="https://img.shields.io/github/stars/killerop12/KillerMusicBot?style=social">
   </a>
 </p>
 
